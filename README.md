@@ -10,6 +10,7 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 - I learned how to annotate videos; use collabration tools and so on.
 <div style="height:3px;border:none;background-color:red;background-color:#aaa;box-shadow:1px 3px 2px #ccc;"></div>
 
+
 ### Module 2
 - I learned  how teachers can integrate creativity and promote student- centered learning in  classrooms
 - I learned how teachers can inspire a Growth mindset  to students.
@@ -19,5 +20,19 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 - Students with Special Needs
 <div style="height:3px;border:none;background-color:red;background-color:#aaa;box-shadow:1px 3px 2px #ccc;"></div>
 
-###
-###
+
+### Module 3
+- Understanding the learner
+- Learning in a Digital Age
+- Digital Skills for Learning
+- Digital Skills in Practice
+
+
+### Module 4
+#### Manage the learning environment
+- Climate and Culture of the Learning Environment
+- Strategies for Managing the Learning Environment
+- Plan for Improvement in the Learning Environment
+- Managing Student Behavior
+- Role of Families and Technology for Managing the Learning Environment
+- Managing Challenging Student Behavior
