@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Fast and slow
 
-You can use the [editor on GitHub](https://github.com/spatblan/fast-and-slow/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### About me
+My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I used to teach in the US, Philippines and Thailand. Now I am working in an University in Beijing. This blog is to document my teaching certification program learning process with Teach-now .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spatblan/fast-and-slow/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Module 1
+- I understand the mission and goals of the TEACH-NOW programs
+- I am  familiar with TEACH-NOW policies and requirements for successfully completing the program
+- I learned how to annotate videos; use collabration tools and so on.
