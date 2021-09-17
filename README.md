@@ -8,7 +8,7 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 - I understand the mission and goals of the TEACH-NOW programs
 - I am  familiar with TEACH-NOW policies and requirements for successfully completing the program
 - I learned how to annotate videos; use collabration tools and so on.
-<hr>
+<hr/>
 
 ### Module 2
 - I learned  how teachers can integrate creativity and promote student- centered learning in  classrooms
