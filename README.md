@@ -37,4 +37,6 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 #### Summary 
 - [Plan for Managing the Learning Environment](https://spatblan.github.io/fast-and-slow/4-7)
 
+### Module 5
 
+-[Different Types of Assessments](https://spatblan.github.io/fast-and-slow/5-1)
