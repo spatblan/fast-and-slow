@@ -34,5 +34,5 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 - Strategies for Managing the Learning Environment
 - Plan for Improvement in the Learning Environment
 - Managing Student Behavior
-- Role of Families and Technology for Managing the Learning Environment
+- [Role of Families and Technology for Managing the Learning Environment](https://spatblan.github.io/fast-and-slow/4-5)
 - [Managing Challenging Student Behavior](https://spatblan.github.io/fast-and-slow/4-6)
