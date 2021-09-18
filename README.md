@@ -27,10 +27,10 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 
 ### Module 4
 #### Manage the learning environment
-- Climate and Culture of the Learning Environment
-- Strategies for Managing the Learning Environment
-- Plan for Improvement in the Learning Environment
-- Managing Student Behavior
+- [Climate and Culture of the Learning Environment](https://spatblan.github.io/fast-and-slow/4-1)
+- [Strategies for Managing the Learning Environment](https://spatblan.github.io/fast-and-slow/4-2)
+- [Plan for Improvement in the Learning Environment](https://spatblan.github.io/fast-and-slow/4-3)
+- [Managing Student Behavior](https://spatblan.github.io/fast-and-slow/4-4)
 - [Role of Families and Technology for Managing the Learning Environment](https://spatblan.github.io/fast-and-slow/4-5)
 - [Managing Challenging Student Behavior](https://spatblan.github.io/fast-and-slow/4-6)
 
