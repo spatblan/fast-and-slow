@@ -23,9 +23,9 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 
 ### Module 3
 - [Understanding the learner](https://spatblan.github.io/fast-and-slow/3-1)
-- Learning in a Digital Age
-- Digital Skills for Learning
-- Digital Skills in Practice
+- [Learning in a Digital Age](https://spatblan.github.io/fast-and-slow/3-2)
+- [Digital Skills for Learning](https://spatblan.github.io/fast-and-slow/3-3)
+- [Digital Skills in Practice](https://spatblan.github.io/fast-and-slow/3-4)
 
 
 ### Module 4
