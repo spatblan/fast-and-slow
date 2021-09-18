@@ -12,9 +12,6 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 
 
 ### Module 2
-- I learned  how teachers can integrate creativity and promote student- centered learning in  classrooms
-- I learned how teachers can inspire a Growth mindset  to students.
-- I learned Laws and Policies that affect teaching.
 - Tomorrow's Teachers
 - Student Diversity
 - Students with Special Needs
