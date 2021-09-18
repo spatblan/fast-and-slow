@@ -35,7 +35,7 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 - [Managing Challenging Student Behavior](https://spatblan.github.io/fast-and-slow/4-6)
 
 #### Summary 
-- [Plan for Managing the Learning Environment](https://spatblan.github.io/fast-and-slow/4-7)
+- [Plan for Managing the Learning Environment](https://spatblan.github.io/fast-and-slow/static/4-7.pdf)
 
 ### Module 5
 
