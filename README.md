@@ -12,9 +12,10 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 
 
 ### Module 2
-- Tomorrow's Teachers
-- Student Diversity
-- Students with Special Needs
+- [Tomorrow's Teachers](https://spatblan.github.io/fast-and-slow/2-1)
+- [Student Diversity](https://spatblan.github.io/fast-and-slow/2-2)
+- [Students with Special Needs](https://spatblan.github.io/fast-and-slow/2-3
+)
 <div style="height:3px;border:none;background-color:red;background-color:#aaa;box-shadow:1px 3px 2px #ccc;"></div>
 
 
