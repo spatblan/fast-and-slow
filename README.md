@@ -8,14 +8,14 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 - I understand the mission and goals of the TEACH-NOW programs
 - I am  familiar with TEACH-NOW policies and requirements for successfully completing the program
 - I learned how to annotate videos; use collabration tools and so on.
-<div style="height:3px;border:none;background-color:red;background-color:#aaa;box-shadow:1px 3px 2px #ccc;"></div>
+
 
 
 ### Module 2
 - [Tomorrow's Teachers](https://spatblan.github.io/fast-and-slow/2-1)
 - [Student Diversity](https://spatblan.github.io/fast-and-slow/2-2)
 - [Students with Special Needs](https://spatblan.github.io/fast-and-slow/2-3)
-<div style="height:3px;border:none;background-color:red;background-color:#aaa;box-shadow:1px 3px 2px #ccc;"></div>
+
 
 
 ### Module 3
