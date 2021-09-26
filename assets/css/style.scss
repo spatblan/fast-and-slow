@@ -4,16 +4,15 @@
 @import "{{ site.theme }}";
 h3 {
     font-weight: bolder;
-    border-top: 5px solid;
-    border-left: 2px solid;
+    border-top: 2px solid;
+    border-left: 6px solid;
     padding-left: 12px;
     padding-top: 6px;
 }
 
 p {
     border-bottom: 2px solid #159957;
-    border-right: 2px solid #159957;
+    border-right: 1px solid #159957;
     padding: 12px;
     margin-top: 0px;
-    box-shadow: 2px 2px 7px #159957;
 }
