@@ -1,4 +1,7 @@
-## Thinking, Fast and slow
+---
+title: Thinking, Fast and slow
+description: home page
+---
 
 ### About me
 My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I used to teach in the US, Philippines and Thailand. Now I am working in an University in Beijing. This blog is to document my teaching certification program learning process with Teach-now .
@@ -27,7 +30,7 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 
 ### Module 4
 #### Manage the learning environment
-- [Climate and Culture of the Learning Environment](https://spatblan.github.io/fast-and-slow/4-1)
+- [Climate and Culture of the Learning Environment](/fast-and-slow/4-1)
 - [Strategies for Managing the Learning Environment](https://spatblan.github.io/fast-and-slow/4-2)
 - [Plan for Improvement in the Learning Environment](https://spatblan.github.io/fast-and-slow/4-3)
 - [Managing Student Behavior](https://spatblan.github.io/fast-and-slow/4-4)
