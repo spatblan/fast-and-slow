@@ -3,7 +3,9 @@ permalink: /
 title: Thinking, Fast and slow
 description: home page
 l1: about-me
+l1n: About me
 l2: module-1
+l2n: Module 1
 ---
 
 ## About me
