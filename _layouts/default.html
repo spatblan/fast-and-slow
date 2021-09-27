@@ -42,7 +42,7 @@
       {% if page.l8 %}
         <a href="#{{ page.l8 }}" class="btn">{{ page.l8n }}</a>
       {% endif %}
-      {% if '{{ page.name }}' != 'home page' %}
+      {% if page.show_home_page_btn %}
         <a href="/fast-and-slow/" class="btn">Go back to the home page</a>
       {% endif %}
 
