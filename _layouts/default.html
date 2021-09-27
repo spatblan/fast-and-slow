@@ -24,13 +24,28 @@
       {% if page.l2 != '' %}
         <a href="#{{ page.l2 }}" class="btn">{{ page.l2n }}</a>
       {% endif %}
-      {% if page.description != 'home page' %}
+      {% if page.l3 != '' %}
+        <a href="#{{ page.l3 }}" class="btn">{{ page.l3n }}</a>
+      {% endif %}
+      {% if page.l4 != '' %}
+        <a href="#{{ page.l4 }}" class="btn">{{ page.l4n }}</a>
+      {% endif %}
+      {% if page.l5 != '' %}
+        <a href="#{{ page.l5 }}" class="btn">{{ page.l5n }}</a>
+      {% endif %}
+      {% if page.l6 != '' %}
+        <a href="#{{ page.l6 }}" class="btn">{{ page.l6n }}</a>
+      {% endif %}
+      {% if page.l7 != '' %}
+        <a href="#{{ page.l7 }}" class="btn">{{ page.l7n }}</a>
+      {% endif %}
+      {% if page.l8 != '' %}
+        <a href="#{{ page.l8 }}" class="btn">{{ page.l8n }}</a>
+      {% endif %}
+      {% if page.name != 'home page' %}
         <a href="/fast-and-slow/" class="btn">Go back to the home page</a>
       {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+
     </header>
 
     <main id="content" class="main-content" role="main">
