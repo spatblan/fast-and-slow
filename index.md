@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: Thinking, Fast and slow
 description: home page
 ---
@@ -15,17 +16,17 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 
 
 ### Module 2
-- [Tomorrow's Teachers](https://spatblan.github.io/fast-and-slow/2-1)
-- [Student Diversity](https://spatblan.github.io/fast-and-slow/2-2)
-- [Students with Special Needs](https://spatblan.github.io/fast-and-slow/2-3)
+- [Tomorrow's Teachers](/fast-and-slow/2-1)
+- [Student Diversity](/fast-and-slow/2-2)
+- [Students with Special Needs](/fast-and-slow/2-3)
 
 
 
 ### Module 3
-- [Understanding the learner](https://spatblan.github.io/fast-and-slow/3-1)
-- [Learning in a Digital Age](https://spatblan.github.io/fast-and-slow/3-2)
-- [Digital Skills for Learning](https://spatblan.github.io/fast-and-slow/3-3)
-- [Digital Skills in Practice](https://spatblan.github.io/fast-and-slow/3-4)
+- [Understanding the learner](/fast-and-slow/3-1)
+- [Learning in a Digital Age](/fast-and-slow/3-2)
+- [Digital Skills for Learning](/fast-and-slow/3-3)
+- [Digital Skills in Practice](/fast-and-slow/3-4)
 
 
 ### Module 4
@@ -38,8 +39,8 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 - [Managing Challenging Student Behavior](/fast-and-slow/4-6)
 
 #### Summary 
-[Plan for Managing the Learning Environment](https://spatblan.github.io/fast-and-slow/static/4-7.pdf)
+[Plan for Managing the Learning Environment](/fast-and-slow/static/4-7.pdf)
 
 ### Module 5
 
--[Different Types of Assessments](https://spatblan.github.io/fast-and-slow/5-1)
+-[Different Types of Assessments](/fast-and-slow/5-1)
