@@ -13,10 +13,12 @@
 }
 
 .main-content h2 {
-    padding-left: 12px;
-    border: 8px solid #159957;
+    padding: 8px 12px;
+    /* border: 8px solid #159957; */
     background-color: #159957;
+    background-image: linear-gradient(300deg, #155799, #159957);
     margin-left: -16px;
+    margin-right: -16px;
     font-weight: bolder;
     color: white;
     /* margin-bottom: -40px; */
