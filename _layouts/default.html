@@ -18,6 +18,12 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% if page.l1 != '' %}
+        <a href="#{{ page.l1 }}" class="btn">{{ page.l1n }}</a>
+      {% endif %}
+      {% if page.l2 != '' %}
+        <a href="#{{ page.l2 }}" class="btn">{{ page.l2n }}</a>
+      {% endif %}
       {% if page.description != 'home page' %}
         <a href="/fast-and-slow/" class="btn">Go back to the home page</a>
       {% endif %}
