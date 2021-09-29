@@ -57,17 +57,17 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 
 ### Module 5
 #### Student Assessement
--[Different Types of Assessments](https://spatblan.github.io/fast-and-slow/5-1)
--[Evaluating Student Performance](https://spatblan.github.io/fast-and-slow/5-2)
--[Data Driven Instruction](https://spatblan.github.io/fast-and-slow/5-3)
--[Differentiating Assessments and Communicating Results](https://spatblan.github.io/fast-and-slow/5-4)
+-[Different Types of Assessments](/https://spatblan.github.io/fast-and-slow/5-1)
+-[Evaluating Student Performance](/https://spatblan.github.io/fast-and-slow/5-2)
+-[Data Driven Instruction](/https://spatblan.github.io/fast-and-slow/5-3)
+-[Differentiating Assessments and Communicating Results](/https://spatblan.github.io/fast-and-slow/5-4)
 
 ### Module 6
 ####  Planning and Preparation for Learning
-- [Standards](https://spatblan.github.io/fast-and-slow/6-1)
-- [Unit Planning](https://spatblan.github.io/fast-and-slow/6-2)
-- [Lesson Planning](https://spatblan.github.io/fast-and-slow/6-3)
-- [Differentiating Lessons](https://spatblan.github.io/fast-and-slow/6-4)
+- [Standards](/https://spatblan.github.io/fast-and-slow/6-1)
+- [Unit Planning](/https://spatblan.github.io/fast-and-slow/6-2)
+- [Lesson Planning](/https://spatblan.github.io/fast-and-slow/6-3)
+- [Differentiating Lessons](/https://spatblan.github.io/fast-and-slow/6-4)
 
 ### Module 7 & 8
 ####  Clinical & Teaching Practice and Proficiency
