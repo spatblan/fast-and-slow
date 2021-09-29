@@ -14,6 +14,10 @@ l5: module-4
 l5n: Module 4
 l6: module-5
 l6n: Module 5
+l7: module-6
+l7n: Module 6
+l8: module-7 & 8
+l8n: Module 7 & 8
 ---
 
 ## About me
@@ -51,6 +55,19 @@ My name is Chongchong Chao. I am teacher with 5 years of teaching experience. I 
 ### Summary 
 [Plan for Managing the Learning Environment](/fast-and-slow/static/4-7.pdf)
 
-## Module 5
+### Module 5
+#### Student Assessement
+-[Different Types of Assessments](https://spatblan.github.io/fast-and-slow/5-1)
+-[Evaluating Student Performance](https://spatblan.github.io/fast-and-slow/5-2)
+-[Data Driven Instruction](https://spatblan.github.io/fast-and-slow/5-3)
+-[Differentiating Assessments and Communicating Results](https://spatblan.github.io/fast-and-slow/5-4)
 
-[Different Types of Assessments](/fast-and-slow/5-1)
+### Module 6
+####  Planning and Preparation for Learning
+- [Standards](https://spatblan.github.io/fast-and-slow/6-1)
+- [Unit Planning](https://spatblan.github.io/fast-and-slow/6-2)
+- [Lesson Planning](https://spatblan.github.io/fast-and-slow/6-3)
+- [Differentiating Lessons](https://spatblan.github.io/fast-and-slow/6-4)
+
+### Module 7 & 8
+####  Clinical & Teaching Practice and Proficiency
